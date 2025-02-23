@@ -1,0 +1,5 @@
+model: ollama_chat/deepseek-coder-v2:latest
+map-tokens: 4096
+map-refresh: auto
+auto-commits: false
+dark-mode: true

@@ -1,0 +1,13 @@
+{
+  "name": "water-meter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Leo Arokiaraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
